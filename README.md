@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hola Soy Bryan Blaise:
 Soy Estudiante de Ingeniería Biomédica en la Universidad Latina de Panamá. Me gusta la programacion y edicion de videos, tanto como de fotos. Cada día trato de adquirir conocimiento en el ámbito de programación.
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
